@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deshan001" alt="deshan001" /></a> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Web Development Server Side**
 
-- 💬 Ask me about **Bootstrap ,React , JavaScript , CSS , HTML**
+- 💬 Ask me about **React , JavaScript , CSS , HTML , Bootstrap **
 
 - 📫 How to reach me **ravindudeshapriya808@gmail.com**
 
@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/ravindu-deshapriya-80a2542a5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ravindu-deshapriya-80a2542a5" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/www.linkedin.com/in/ravindu-deshapriya-80a2542a5](https://www.linkedin.com/in/ravindu-deshapriya/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ravindu-deshapriya-80a2542a5" height="30" width="40" /></a>
 <a href="https://fb.com/ravindu deshapriya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ravindu deshapriya" height="30" width="40" /></a>
 <a href="https://medium.com/@desh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@desh" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.com/channels/@me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/channels/@me" height="30" width="40" /></a>
