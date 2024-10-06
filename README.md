@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 <h1 align="center">Hi 👋, I'm Ravindu Deshapriya</h1>
-<h3 align="center">A Modern Creative UI / UX Designer </h3> <br>
+<h3 align="center">A Modern Creative UI / UX Designer </h3>
 <h3 align="center">A passionate Frontend Developer</h3>
 <img allign="right" alt "Coding" width="400" src="https://raj-rathod.github.io/rajesh-rathore/assets/images/developer.gif">
 
